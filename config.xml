@@ -41,6 +41,10 @@
     <gap:plugin name="org.apache.cordova.network-information" version="0.2.12" />
     <gap:plugin name="org.apache.cordova.splashscreen" version="0.3.4" />
     <gap:plugin name="org.apache.cordova.vibration" version="0.3.11" />
+	<gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.9.0">
+		<param name="APP_ID" value="764222190371629" />
+		<param name="APP_NAME" value="127f637f2b95feb33ffd71ab49ecbb02" />
+	</gap:plugin>
 
     <!-- to show app faster, set autohide to true. iOS only -->
     <preference name="AutoHideSplashScreen" value="false" />
