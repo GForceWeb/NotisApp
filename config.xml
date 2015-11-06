@@ -45,7 +45,6 @@
 		<param name="APP_ID" value="764222190371629" />
 		<param name="APP_NAME" value="127f637f2b95feb33ffd71ab49ecbb02" />
 	</gap:plugin>
-	<gap:plugin name="nl.x-services.plugins.socialsharing" version="4.3.6" />
 
     <!-- to show app faster, set autohide to true. iOS only -->
     <preference name="AutoHideSplashScreen" value="false" />
